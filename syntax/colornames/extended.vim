@@ -5,6 +5,8 @@
 
 " W3C extended colors
 
+finish
+
 syntax include syntax/colornames/basic.vim
 
 hi BG00008b guibg=#00008B guifg=#FFFFFF ctermbg=18  ctermfg=231

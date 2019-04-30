@@ -5,6 +5,8 @@
 
 " W3C basic colors
 
+finish
+
 hi BG000000 guibg=#000000 guifg=#FFFFFF ctermbg=16  ctermfg=231
 hi BGc0c0c0 guibg=#C0C0C0 guifg=#000000 ctermbg=250 ctermfg=16
 hi BG808080 guibg=#808080 guifg=#000000 ctermbg=244 ctermfg=16
